@@ -1,4 +1,5 @@
-## Hi there 👋:cherry_blossom:
+🌸 Welcome to my GitHub profile! 🌸
+
 
 <!--
 **danycywiak/danycywiak** is a  repository because its `README.md` (this file) appears on your GitHub profile.
