@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me ✨ 
 
 🎓 I have been working on understanding how the collective behavior of ordering in liquid crystal molecules modifies their properties and interactions.  
-My research has focused on modeling systems using **coarse-grained models** to analyze colloidal liquid crystals, which can be described as **soft or hard rods**. Additionally, I have simulated **molecular-scale models**, representing atomic interactions within liquid crystal molecules.  
+My research has focused on modeling systems using **coarse-grained models** to analyze colloidal liquid crystals, which can be described as **soft or hard rods**. Additionally, I have simulated **molecular-scale models**, representing atomic interactions within liquid crystal molecules. You can read more about it here: https://arxiv.org/abs/2110.01491
 
 ## Throughout my simulations, I have tackled challenges such as:  
 - Developing **statistical and thermodynamic models** to describe molecular behavior.  
@@ -32,6 +32,7 @@ I am also working on projects related to **Deep Learning and Neural Networks**, 
 ## 📂 Projects  
 🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.  
 🔬 **Life Expectancy Analysis (Coming Soon!)** - Deep learning model analyzing WHO data on life expectancy trends.  
+✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.
 🐶 **Dog vs Cat Classification (In Progress)** - CNN model for image classification using TensorFlow.  
 🧪 **Molecular Clustering Analysis (Coming Soon!)** - Clustering and pattern detection in molecular simulations with DBSCAN.  
 
