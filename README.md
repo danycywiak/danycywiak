@@ -33,7 +33,6 @@ I am also working on projects related to **Deep Learning and Neural Networks**, 
 🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.  
 🔬 **Life Expectancy Analysis (Coming Soon!)** - Deep learning model analyzing WHO data on life expectancy trends.  
 ✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.  
-
 🐶 **Dog vs Cat Classification (In Progress)** - CNN model for image classification using TensorFlow.  
 🧪 **Molecular Clustering Analysis (Coming Soon!)** - Clustering and pattern detection in molecular simulations with DBSCAN.  
 
