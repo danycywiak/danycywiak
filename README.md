@@ -34,7 +34,7 @@ I am also working on projects related to **Deep Learning and Neural Networks**, 
   
 ## 📂 Projects  
 🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.  
-🔬  [**Life Expectancy Prediction**]([https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated](https://github.com/danycywiak/life-expectancy)) – A neural network-based model for predicting life expectancy based on socioeconomic and health data.
+🔬  [**Life Expectancy Prediction**](https://github.com/danycywiak/life-expectancy) – A neural network-based model for predicting life expectancy based on socioeconomic and health data.
  - 🚀 **Try it here:** [![Hugging Face](https://img.shields.io/badge/🤗-Try%20it%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/danycywiak/life-expectancy) 
 
 ✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.  
