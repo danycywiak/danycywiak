@@ -5,6 +5,9 @@
 🎓 I have been working on understanding how the collective behavior of ordering in liquid crystal molecules modifies their properties and interactions.  
 My research has focused on modeling systems using **coarse-grained models** to analyze colloidal liquid crystals, which can be described as **soft or hard rods**. Additionally, I have simulated **molecular-scale models**, representing atomic interactions within liquid crystal molecules. You can read more about it here: https://arxiv.org/abs/2110.01491
 
+Recently, I have been transitioning into **Machine Learning & Data Science**, working on projects related to **predictive modeling and deep learning**.  
+🔹 Check out my latest project below! ⬇️
+
 ## Throughout my simulations, I have tackled challenges such as:  
 - Developing **statistical and thermodynamic models** to describe molecular behavior.  
 - Selecting appropriate **interaction potentials** and implementing them in simulations.  
