@@ -57,8 +57,8 @@ I am currently collaborating on **Computer Vision research projects**, working o
  - 🚀 **Try it here:** [![Hugging Face](https://img.shields.io/badge/🤗-Try%20it%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/danycywiak/life-expectancy) 
 
 ✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.  
-🐶 **Dog vs Cat Classification (In Progress)** - CNN model for image classification using TensorFlow.  
-🧪 **Molecular Clustering Analysis** - Clustering and pattern detection in molecular simulations with DBSCAN.  
+🐶 [**Dog vs Cat Classification (In Progress)**] - CNN model for image classification using TensorFlow.  
+🧪 [**Molecular Clustering Analysis**] - Clustering and pattern detection in molecular simulations with DBSCAN.  
 ---
 ##📫 How to reach me: 
 📫 **Contact:** da.cywiak@gmail.com  
