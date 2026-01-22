@@ -52,7 +52,7 @@ I am currently collaborating on **Computer Vision research projects**, working o
 
 ## 📂 Selected Projects
 
-[**Pupil Detection**](https://github.com/danycywiak/pupil-detection-hough) - Algorithm for circles detection to detect pupils.
+👁️:eye:[**Pupil Detection**](https://github.com/danycywiak/pupil-detection-hough) - Pupil detection algorithm based on Hough Circle Transform (classical computer vision).
 🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.  
 🔬  [**Life Expectancy Prediction**](https://github.com/danycywiak/life-expectancy) – A neural network-based model for predicting life expectancy based on socioeconomic and health data.
  - 🚀 **Try it here:** [![Hugging Face](https://img.shields.io/badge/🤗-Try%20it%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/danycywiak/life-expectancy) 
