@@ -59,10 +59,9 @@ I am currently collaborating on **Computer Vision research projects**, working o
 
 🧪 [**Molecular Analysis**](https://github.com/danycywiak/Molecular-Analysis) - Vector Calculation, Twist Angle, Color Clustering and Visualization of 5CB molecules
 
-🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.
-
 🔬  [**Monte Carlo Algorithm**](https://github.com/danycywiak/Monte-Carlo-Algorithm-Spherocylinders) – A dynamic Monte Carlo Algorithm to simulate dynamic and static properties of rod particles 
 
+🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.
 ✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.  
 🐶 [**Dog vs Cat Classification (In Progress)**] - CNN model for image classification using TensorFlow.  
  
