@@ -52,13 +52,16 @@ I am currently collaborating on **Computer Vision research projects**, working o
 
 ## 📂 Selected Projects
 👁️ [**Pupil Detection**](https://github.com/danycywiak/pupil-detection-hough) - Pupil detection algorithm based on Hough Circle Transform (classical computer vision).   .
-🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.  
 🔬  [**Life Expectancy Prediction**](https://github.com/danycywiak/life-expectancy) – A neural network-based model for predicting life expectancy based on socioeconomic and health data.
- - 🚀 **Try it here:** [![Hugging Face](https://img.shields.io/badge/🤗-Try%20it%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/danycywiak/life-expectancy) 
+ - 🚀 **Try it here:** [![Hugging Face](https://img.shields.io/badge/🤗-Try%20it%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/danycywiak/life-expectancy)
+
+🧪 [**Molecular Analysis**](https://github.com/danycywiak/Molecular-Analysis) - Vector Calculation, Twist Angle, Color Clustering and Visualization of 5CB molecules
+
+🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.
 
 ✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.  
 🐶 [**Dog vs Cat Classification (In Progress)**] - CNN model for image classification using TensorFlow.  
-🧪 [**Molecular Clustering Analysis**] - Clustering and pattern detection in molecular simulations with DBSCAN.  
+ 
 ---
 ##📫 How to reach me: 
 📫 **Contact:** da.cywiak@gmail.com  
