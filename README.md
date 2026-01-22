@@ -51,13 +51,17 @@ I am currently collaborating on **Computer Vision research projects**, working o
 ---
 
 ## 📂 Selected Projects
+
 👁️ [**Pupil Detection**](https://github.com/danycywiak/pupil-detection-hough) - Pupil detection algorithm based on Hough Circle Transform (classical computer vision).   .
+
 🔬  [**Life Expectancy Prediction**](https://github.com/danycywiak/life-expectancy) – A neural network-based model for predicting life expectancy based on socioeconomic and health data.
  - 🚀 **Try it here:** [![Hugging Face](https://img.shields.io/badge/🤗-Try%20it%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/danycywiak/life-expectancy)
 
 🧪 [**Molecular Analysis**](https://github.com/danycywiak/Molecular-Analysis) - Vector Calculation, Twist Angle, Color Clustering and Visualization of 5CB molecules
 
 🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.
+
+🔬  [**Monte Carlo Algorithm**](https://github.com/danycywiak/Monte-Carlo-Algorithm-Spherocylinders) – A dynamic Monte Carlo Algorithm to simulate dynamic and static properties of rod particles 
 
 ✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.  
 🐶 [**Dog vs Cat Classification (In Progress)**] - CNN model for image classification using TensorFlow.  
