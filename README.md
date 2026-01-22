@@ -69,5 +69,5 @@ I am currently collaborating on **Computer Vision research projects**, working o
 ---
 ##📫 How to reach me: 
 📫 **Contact:** da.cywiak@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/danycywiak/
+🔗 **LinkedIn:** (https://www.linkedin.com/in/daniela-cywiak/)
 
