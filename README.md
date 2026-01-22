@@ -34,7 +34,7 @@ I currently work on **industry AI/ML projects**, including:
 - OCR pipelines, image preprocessing and feature extraction
 - Model validation and performance analysis
 
-🚀 **Contributed to an AI solution awarded *DevAwards 2025*** for innovation in Machine Learning applications.
+🚀 **Contributed to an AI solution awarded *DevAwards 2025*** for innovation in applied artificial intelligence
 
 I am currently collaborating on **Computer Vision research projects**, working on the **algorithmic development of pupil detection**, using **Hough Circle Transform–based approaches**, image preprocessing, and model validation.
 
@@ -51,8 +51,7 @@ I am currently collaborating on **Computer Vision research projects**, working o
 ---
 
 ## 📂 Selected Projects
----
-## 📂 Projects  
+ 
 🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.  
 🔬  [**Life Expectancy Prediction**](https://github.com/danycywiak/life-expectancy) – A neural network-based model for predicting life expectancy based on socioeconomic and health data.
  - 🚀 **Try it here:** [![Hugging Face](https://img.shields.io/badge/🤗-Try%20it%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/danycywiak/life-expectancy) 
@@ -60,7 +59,7 @@ I am currently collaborating on **Computer Vision research projects**, working o
 ✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.  
 🐶 **Dog vs Cat Classification (In Progress)** - CNN model for image classification using TensorFlow.  
 🧪 **Molecular Clustering Analysis** - Clustering and pattern detection in molecular simulations with DBSCAN.  
-
+---
 ##📫 How to reach me: 
 📫 **Contact:** da.cywiak@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/danycywiak/
