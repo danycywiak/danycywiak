@@ -1,37 +1,57 @@
-# 🌸 Welcome to my GitHub profile! 🌸
+# 🌸 Welcome to my GitHub profile 🌸
 
-## 👩‍💻 About Me ✨ 
+**Algorithm Development | Machine Learning | Computer Vision | Scientific Computing**
 
-🎓 I have been working on understanding how the collective behavior of ordering in liquid crystal molecules modifies their properties and interactions.  
-My research has focused on modeling systems using **coarse-grained models** to analyze colloidal liquid crystals, which can be described as **soft or hard rods**. Additionally, I have simulated **molecular-scale models**, representing atomic interactions within liquid crystal molecules. You can read more about it here: https://arxiv.org/abs/2110.01491
+## 👩‍💻 About Me
 
-Recently, I have been transitioning into **Machine Learning & Data Science**, working on projects related to **predictive modeling and deep learning**.  
-🔹 Check out my latest project below! ⬇️
+I am a **Physics PhD** with strong experience in **algorithm development, data analysis, and machine learning**, working at the intersection of **computational modeling and applied AI**.
 
-## Throughout my simulations, I have tackled challenges such as:  
-- Developing **statistical and thermodynamic models** to describe molecular behavior.  
-- Selecting appropriate **interaction potentials** and implementing them in simulations.  
-- **Processing and analyzing large-scale datasets**, applying **data cleaning and feature engineering**.  
-- Using **Machine Learning techniques like DBSCAN** to perform clustering analysis and identify patterns in molecular behavior.
+I design and implement **custom algorithms** for:
+- Data processing and feature extraction
+- Pattern detection and clustering
+- Machine Learning and Deep Learning pipelines
+- Image analysis and Computer Vision tasks
 
-## 🚀 Skills & Technologies  
-🔹 **Programming:** Python (Pandas, NumPy, SciKit-Learn, TensorFlow), SQL, Linux, Git  
-🔹 **Data Analysis & Visualization:** Power BI, Matplotlib, Seaborn  
-🔹 **Machine Learning:** Supervised & Unsupervised Learning, Deep Learning, Clustering  
+---
 
-This experience has led me to develop a strong interest in **Data Science and Machine Learning**, as these fields provide powerful tools that can be adapted not only to molecular simulations but also to various other industries.  
+## 🔬 Research & Computational Background
 
-I am currently transitioning into a more **industry-oriented role**, where I aim to apply my skills in **data analysis, machine learning, and deep learning** to solve real-world problems.  
-I am also working on projects related to **Deep Learning and Neural Networks**, exploring how these technologies can be leveraged for predictive modeling and optimization.  
+My research focuses on **computational modeling of liquid crystals**, using:
+- Coarse-grained and molecular-scale models
+- Monte Carlo and Dynamic Monte Carlo simulations
+- Statistical, thermodynamic, and microrheological analysis
 
-📌 **Current Areas of Interest:**  
-- **Data Science & Analytics**  
-- **Machine Learning & Deep Learning**  
-- **Computational Modeling & Simulations**  
-- **Big Data Processing & Visualization**  
-- **Industry Applications of AI & Data Science**
+📄 Selected publications:
+- https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.014703  
+- https://arxiv.org/abs/2110.01491  
 
-  
+---
+
+## 🤖 Applied AI & Computer Vision
+
+I currently work on **industry AI/ML projects**, including:
+- Machine Learning & Deep Learning models
+- OCR pipelines, image preprocessing and feature extraction
+- Model validation and performance analysis
+
+🚀 **Contributed to an AI solution awarded *DevAwards 2025*** for innovation in Machine Learning applications.
+
+I am currently collaborating on **Computer Vision research projects**, working on the **algorithmic development of pupil detection**, using **Hough Circle Transform–based approaches**, image preprocessing, and model validation.
+
+---
+
+## 🚀 Skills
+
+- **Python** (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
+- **Machine Learning:** supervised, unsupervised, CNNs, DBSCAN
+- **Computer Vision:** image preprocessing, feature extraction, OCR
+- **Data Analysis & Visualization:** Power BI, Matplotlib
+- **Tools:** SQL, Linux, Git
+
+---
+
+## 📂 Selected Projects
+---
 ## 📂 Projects  
 🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.  
 🔬  [**Life Expectancy Prediction**](https://github.com/danycywiak/life-expectancy) – A neural network-based model for predicting life expectancy based on socioeconomic and health data.
@@ -41,7 +61,7 @@ I am also working on projects related to **Deep Learning and Neural Networks**, 
 🐶 **Dog vs Cat Classification (In Progress)** - CNN model for image classification using TensorFlow.  
 🧪 **Molecular Clustering Analysis** - Clustering and pattern detection in molecular simulations with DBSCAN.  
 
+##📫 How to reach me: 
+📫 **Contact:** da.cywiak@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/danycywiak/
 
-
-
-##📫 How to reach me: da.cywiak@gmail.com
