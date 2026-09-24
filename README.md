@@ -1,73 +1,90 @@
 # 🌸 Welcome to my GitHub profile 🌸
 
-**Algorithm Development | Machine Learning | Computer Vision | Scientific Computing**
+**AI Engineering | Machine Learning | GenAI & Agentic AI | Scientific Computing**
 
 ## 👩‍💻 About Me
 
-I am a **Physics PhD** with strong experience in **algorithm development, data analysis, and machine learning**, working at the intersection of **computational modeling and applied AI**.
+I'm a **Senior AI Engineer and Physics PhD** working across **Machine Learning, Generative AI, agentic systems, and applied research**.
 
-I design and implement **custom algorithms** for:
-- Data processing and feature extraction
-- Pattern detection and clustering
-- Machine Learning and Deep Learning pipelines
-- Image analysis and Computer Vision tasks
+My work has covered quite different problems and industries — from computational physics and experimental imaging to insurance ML, forecasting, optimization, document intelligence, and enterprise AI agents.
+
+Most of my recent engineering work lives in **private enterprise repositories**, so this GitHub mainly contains selected personal, research, and earlier ML projects.
+
+Some of the areas I currently work with include:
+
+- Machine Learning and predictive modeling
+- LLMs, RAG, AI agents and multi-agent systems
+- Model evaluation and production-oriented AI workflows
+- Computer Vision and document intelligence
+- Data processing, numerical methods and optimization
 
 ---
 
 ## 🔬 Research & Computational Background
 
-My research focuses on **computational modeling of liquid crystals**, using:
+Before moving into industry, I worked in **computational physics**, studying liquid-crystalline systems through simulation and statistical analysis.
+
+My research included:
+
 - Coarse-grained and molecular-scale models
 - Monte Carlo and Dynamic Monte Carlo simulations
-- Statistical, thermodynamic, and microrheological analysis
+- Statistical and transport analysis
+- Microrheology and computational modeling
 
-📄 Selected publications:
-- https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.014703  
-- https://arxiv.org/abs/2110.01491  
+📄 **Selected publications**
+
+- [Physical Review E 105, 014703 (2022)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.014703)
+- *Physics of Fluids* 38 (2026)
 
 ---
 
-## 🤖 Applied AI & Computer Vision
+## 🤖 Applied AI & Engineering
 
-I currently work on **industry AI/ML projects**, including:
-- Machine Learning & Deep Learning models
-- OCR pipelines, image preprocessing and feature extraction
-- Model validation and performance analysis
+My industry experience spans **Machine Learning, NLP, Computer Vision, GenAI and agentic AI**.
 
-🚀 **Contributed to an AI solution awarded *DevAwards 2025*** for innovation in applied artificial intelligence
+I've worked on projects involving:
 
-I am currently collaborating on **Computer Vision research projects**, working on the **algorithmic development of pupil detection**, using **Hough Circle Transform–based approaches**, image preprocessing, and model validation.
+- Forecasting and predictive modeling
+- Optimization models for business decision-making
+- NLP and BERT-based classification
+- OCR and document intelligence pipelines
+- Production AI agents and enterprise GenAI systems
+- Agent orchestration, knowledge retrieval and evaluation
+
+🚀 Contributed to an AI assistant project that received **2nd place at the DEVA Digital Evolution Awards 2025**.
 
 ---
 
 ## 🚀 Skills
 
-- **Python** (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
-- **Machine Learning:** supervised, unsupervised, CNNs, DBSCAN
-- **Computer Vision:** image preprocessing, feature extraction, OCR
-- **Data Analysis & Visualization:** Power BI, Matplotlib
-- **Tools:** SQL, Linux, Git
+- **AI & Machine Learning:** ML, Deep Learning, NLP, LLMs, RAG, AI Agents
+- **GenAI:** LangChain, LangGraph, Azure OpenAI
+- **Data & ML Engineering:** Python, SQL, PySpark, Databricks, MLflow
+- **Computer Vision:** OpenCV, YOLO, OCR, Tesseract, EasyOCR
+- **Scientific Computing:** NumPy, SciPy, statistical modeling, numerical simulation
+- **Tools & Platforms:** Azure, Snowflake, Git, Docker, REST APIs
 
 ---
 
 ## 📂 Selected Projects
 
-👁️ [**Pupil Detection**](https://github.com/danycywiak/pupil-detection-hough) - Pupil detection algorithm based on Hough Circle Transform (classical computer vision).   .
+👁️ [**Pupil Detection**](https://github.com/danycywiak/pupil-detection-hough)  
+Classical computer vision approach for pupil detection using Hough Circle Transform and image preprocessing.
 
-🔬  [**Life Expectancy Prediction**](https://github.com/danycywiak/life-expectancy) – A neural network-based model for predicting life expectancy based on socioeconomic and health data.
- - 🚀 **Try it here:** [![Hugging Face](https://img.shields.io/badge/🤗-Try%20it%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/danycywiak/life-expectancy)
+🔬 [**Life Expectancy Prediction**](https://github.com/danycywiak/life-expectancy)  
+Neural network model for predicting life expectancy from socioeconomic and health data.
 
-🧪 [**Molecular Analysis**](https://github.com/danycywiak/Molecular-Analysis) - Vector Calculation, Twist Angle, Color Clustering and Visualization of 5CB molecules
+🚀 [**Try the demo on Hugging Face**](https://huggingface.co/spaces/danycywiak/life-expectancy)
 
-🔬  [**Monte Carlo Algorithm**](https://github.com/danycywiak/Monte-Carlo-Algorithm-Spherocylinders) – A dynamic Monte Carlo Algorithm to simulate dynamic and static properties of rod particles 
+🧪 [**Molecular Analysis**](https://github.com/danycywiak/Molecular-Analysis)  
+Analysis and visualization of molecular systems, including vector calculations, twist angles and clustering.
 
-🌟 [**Titanic Data Analysis**](https://github.com/danycywiak/Titanic-Data-Analysis) - Exploratory analysis and visualization of Titanic dataset using Power BI & SQL.
+🔬 [**Monte Carlo Algorithm**](https://github.com/danycywiak/Monte-Carlo-Algorithm-Spherocylinders)  
+Dynamic Monte Carlo implementation for studying static and dynamic properties of rod-like particles.
 
-✨ [**Retail Data Analysis**](https://github.com/danycywiak/Analisis_Ventas) - Exploratory analysis and linear regression of retail stores' sales.  
-🐶 [**Dog vs Cat Classification (In Progress)**] - CNN model for image classification using TensorFlow.  
- 
 ---
-##📫 How to reach me: 
-📫 **Contact:** da.cywiak@gmail.com  
-🔗 **LinkedIn:** (https://www.linkedin.com/in/daniela-cywiak/)
 
+## 📫 How to reach me
+
+📧 **Email:** da.cywiak@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/daniela-cywiak](https://www.linkedin.com/in/daniela-cywiak/)
